@@ -1,9 +1,9 @@
 [project]
 name = "exercise"
 version = "0.1.0"
-description = "Add your description here"
+description = "『機械学習のためのカーネル100問 with Python』の演習"
 authors = [
-    { name = "matyaki-matyaki", email = "mtakaha9xf8@gmail.com" }
+    { name = "matyaki-matyaki"}
 ]
 dependencies = [
     "mypy>=1.10.0",
